@@ -1,0 +1,24 @@
+[
+    {
+        "fullName": "Phan Le Bao Tran",
+        "email": "tran@gmail.com",
+        "password": "tran",
+        "role": "Admin",
+        "token": "token001",
+        "address": "Vinh Long",
+        "phone": "0335079097",
+        "deleted": false,
+        "deletedAt": null
+    },
+    {
+        "fullName": "Hoang Huyen Than",
+        "email": "hoang@gmail.com",
+        "password": "hoang",
+        "role": "Admin",
+        "token": "token002",
+        "address": "Vinh Long",
+        "phone": "0395575385",
+        "deleted": false,
+        "deletedAt": null
+    }
+]
